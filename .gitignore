@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+outputs/
+data/Positive/*
+data/Negative/*
+!data/Positive/.gitkeep
+!data/Negative/.gitkeep
+.DS_Store
